@@ -1,0 +1,48 @@
+@media (max-width: 575px) {
+
+	/*===================*/
+	/*-- VARIABLES --*/
+	/*===================*/
+	:root {
+		--heading: 4.5rem;
+		--paragraph-1: 1.7rem;
+		--paragraph-2: 1.5rem;
+		--btn: 1.5rem;
+	}
+
+	.row__mt {
+		margin-top: 7rem;
+	}
+
+}
+
+@media (max-width: 445px) {
+
+	/*===================*/
+	/*-- VARIABLES --*/
+	/*===================*/
+	:root {
+		--heading: 4rem;
+	}
+
+}
+
+@media (max-width: 400px) {
+
+	/*===================*/
+	/*-- VARIABLES --*/
+	/*===================*/
+	:root {
+		--heading: 3.5rem;
+	}
+}
+
+@media (max-width: 346px) {
+
+	/*===================*/
+	/*-- VARIABLES --*/
+	/*===================*/
+	:root {
+		--heading: 3.1rem;
+	}
+}
